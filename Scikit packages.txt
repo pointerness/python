@@ -1,0 +1,22 @@
+from sklearn.tree import DecisionTreeRegressor
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.model_selection import ShuffleSplit
+from sklearn.model_selection import GridSearchCV
+from sklearn.metrics import make_scorer
+from sklearn.metrics import precision_recall_fscore_support
+from sklearn.metrics import fbeta_score
+from sklearn.metrics import accuracy
+http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/
+https://scikit-learn.org/stable/modules/grid_search.html#grid-search
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html#sphx-glr-auto-examples-model-selection-plot-learning-curve-py
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_validation_curve.html#sphx-glr-auto-examples-model-selection-plot-validation-curve-py
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_underfitting_overfitting.html#sphx-glr-auto-examples-model-selection-plot-underfitting-overfitting-pyhttps://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html#sphx-glr-auto-examples-model-selection-plot-learning-curve-py
+https://scikit-learn.org/stable/modules/learning_curve.html#validation-curve
+https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166
+https://seaborn.pydata.org/examples/many_pairwise_correlations.html
+https://seaborn.pydata.org/examples/many_pairwise_correlations.html
+https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166
+https://www.displayr.com/what-is-a-correlation-matrix/
+http://jalammar.github.io/
+http://www.naftaliharris.com/blog/visualizing-k-means-clustering/
+https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0
